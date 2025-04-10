@@ -25,6 +25,7 @@ __for the pytroch basics please follow the below__
 To help you understand the basics of Deep Learning with PyTorch, please follow the notebooks in the sequence below. Each notebook builds upon the concepts introduced in the previous one.
 
 🔰 Step-by-Step Learning Path:
+
 pytorch_tesnor_mazharwrite.ipynb
 → Introduction to PyTorch tensors, basic operations, and how to manipulate them.
 
