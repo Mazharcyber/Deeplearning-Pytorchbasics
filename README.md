@@ -26,29 +26,33 @@ To help you understand the basics of Deep Learning with PyTorch, please follow t
 
 🔰 Step-by-Step Learning Path:
 
-pytorch_tesnor_mazharwrite.ipynb
-→ Introduction to PyTorch tensors, basic operations, and how to manipulate them.
+1. **`pytorch_tesnor_mazharwrite.ipynb`**  
+   → Introduction to PyTorch tensors, basic operations, and how to manipulate them.
 
-Autograd.ipynb
-→ Understanding automatic differentiation, gradients, and how PyTorch handles backpropagation.
+2. **`Autograd.ipynb`**  
+   → Understanding automatic differentiation, gradients, and how PyTorch handles backpropagation.
 
-pytorch_training_pipeline.ipynb
-→ Building a manual training pipeline using only PyTorch tensors and functions.
+3. **`pytorch_training_pipeline.ipynb`**  
+   → Building a manual training pipeline using only PyTorch tensors and functions.
 
-pytorch_nn_module.ipynb
-→ Implementing models using nn.Module, making code modular and cleaner.
+4. **`pytorch_nn_module.ipynb`**  
+   → Implementing models using `nn.Module`, making code modular and cleaner.
 
-pytorch_training_pipeline_using_nn_module.ipynb
-→ Building a complete training loop using nn.Module, loss functions, and optimizers.
+5. **`pytorch_training_pipeline_using_nn_module.ipynb`**  
+   → Building a complete training loop using `nn.Module`, loss functions, and optimizers.
 
-dataset_and_dataloader_demo.ipynb
-→ Using Dataset and DataLoader for handling data in batches efficiently.
+6. **`dataset_and_dataloader_demo.ipynb`**  
+   → Using `Dataset` and `DataLoader` for handling data in batches efficiently.
 
-mazhar_esitpytorch_training_pipeline_using_dataset_and_dataloader.ipynb
-→ A full training pipeline using Dataset, DataLoader, nn.Module, and optimizers.
+7. **`mazhar_esitpytorch_training_pipeline_using_dataset_and_dataloader.ipynb`**  
+   → A full training pipeline using `Dataset`, `DataLoader`, `nn.Module`, and optimizers.
 
-ann_fashion_mnist_pytorch_gpu.ipynb
-→ A real-world implementation of an Artificial Neural Network (ANN) trained on Fashion MNIST, using GPU acceleration.
+8. **`training_neural_network_gpu.ipynb`**  
+   → Training a neural network on MNIST using GPU acceleration, with a full training-validation loop.
 
-Building_Simple_FFNN.ipynb
-→ Learn to build and understand a simple Feed-Forward Neural Network from scratch.
+9. **`ann_fashion_mnist_pytorch_gpu.ipynb`**  
+   → A real-world implementation of an Artificial Neural Network (ANN) trained on Fashion MNIST, using GPU acceleration.
+
+10. **`Building_Simple_FFNN.ipynb`**  
+    → Learn to build and understand a simple Feed-Forward Neural Network from scratch.
+
